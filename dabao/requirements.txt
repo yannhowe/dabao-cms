@@ -16,7 +16,7 @@ docker==4.0.2
 fasteners==0.15
 future==0.17.1
 gunicorn==19.9.0
-idna==2.8
+idna==3.7
 importlib-metadata==0.23
 kombu==4.6.4
 minio==5.0.1
