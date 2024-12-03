@@ -19,7 +19,7 @@ gunicorn==19.9.0
 idna==2.8
 importlib-metadata==0.23
 kombu==4.6.4
-minio==5.0.1
+minio==7.2.11
 monotonic==1.5
 more-itertools==7.2.0
 multidict==4.5.2
